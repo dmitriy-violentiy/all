@@ -1,0 +1,11 @@
+.count h1, .count h2 {
+   margin: 0;
+}
+.count button {
+   border-radius: 7px;
+   padding: 7px 20px;
+   background-color: aquamarine;
+   margin: 10px;
+   border: none;
+   cursor: pointer;
+}
