@@ -45,4 +45,5 @@
    line-height: 23px;
    box-shadow: 0 3px 5px rgba(0, 0, 0, 0.1);
    transition: all 0.1s ease-in-out;
+   margin-bottom: 25px;
 }

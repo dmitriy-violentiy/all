@@ -12,7 +12,7 @@ const Modal = () => {
 				}}
 				className={classes.openModalBtn}
 			>
-				Открыть неаминированное модальное окно
+				Открыть неанимированное модальное окно
 			</button>
 			{open && (
 				<div className={classes.overlay}>
