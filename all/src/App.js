@@ -3,6 +3,7 @@ import Count from "./components/Count/Count";
 import Modal from "./components/Modal/Modal";
 import Quiz from "./components/Quiz/Quiz";
 import UsersWrap from "./components/Users/UsersWrap";
+import Converter from "./components/Converter/Converter";
 
 function App() {
 	return (
@@ -11,6 +12,7 @@ function App() {
 			<Modal />
 			<Quiz />
 			<UsersWrap />
+			<Converter />
 		</div>
 	);
 }
